@@ -136,4 +136,4 @@ module fsmModule( input logic [4:0] buttons, input logic signed [7:0] first, sec
           led_sw leds (first, second, led);
 
 endmodule 
-
+ 
